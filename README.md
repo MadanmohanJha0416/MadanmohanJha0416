@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madanmohan Jha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer from India based in India.Who loves building websites and Software application.</h3>
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://madanmohanjha0416.github.io/Portfoilo.github.io/](https://madanmohanjha0416.github.io/Portfoilo.github.io/)
+
+- 💬 Ask me about **react, Javascript**
 
 - 📫 How to reach me **madanmohanjha0416@gmail.com**
 
